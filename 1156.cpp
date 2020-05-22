@@ -13,4 +13,6 @@ int main(){
     }
     
     cout << fixed << setprecision(2) << sum << endl;
+
+    return 0;
 }
